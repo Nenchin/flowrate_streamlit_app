@@ -1,3 +1,4 @@
+pip == 24.0
 joblib @ file:///C:/b/abs_1anqjntpan/croot/joblib_1685113317150/work
 matplotlib @ file:///C:/b/abs_085jhivdha/croot/matplotlib-suite_1693812524572/work
 numpy @ file:///C:/Users/dev-admin/mkl/numpy_and_numpy_base_1682982345978/work
